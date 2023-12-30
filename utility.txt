@@ -1,0 +1,1 @@
+This is utility fuction file for git.
