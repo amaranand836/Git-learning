@@ -1,1 +1,1 @@
-This is utility fuction file for git.
+This is utility fuction file for git version 2.
